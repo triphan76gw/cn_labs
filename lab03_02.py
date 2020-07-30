@@ -9,9 +9,9 @@ from mininet.cli import CLI
 from mininet.log import setLogLevel, info
 from mininet.link import TCLink, Intf
 from subprocess import call
-
+ok
 def myNetwork():
-
+ok ne 
     net = Mininet( topo=None,
                    build=False,
                    ipBase='10.0.0.0/8')
